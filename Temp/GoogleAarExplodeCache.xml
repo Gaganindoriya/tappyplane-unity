@@ -1,0 +1,90 @@
+<aars>
+  <explodeData>
+    <aar>play-services-ads-10.0.1</aar>
+    <modificationTime>2017-02-01T12:16:19.4741022+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-ads-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-lite-10.0.1</aar>
+    <modificationTime>2017-02-01T12:16:35.2204899+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-ads-lite-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-base-10.0.1</aar>
+    <modificationTime>2017-02-01T12:15:46.0409765+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-base-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-10.0.1</aar>
+    <modificationTime>2017-02-01T12:16:00.6854713+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-basement-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-clearcut-10.0.1</aar>
+    <modificationTime>2017-02-01T12:16:35.3565415+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-clearcut-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-gass-10.0.1</aar>
+    <modificationTime>2017-02-01T12:16:14.8890294+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-gass-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-tasks-10.0.1</aar>
+    <modificationTime>2017-02-01T12:16:04.2544256+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\play-services-tasks-10.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-v4-24.0.0</aar>
+    <modificationTime>2017-02-01T12:10:01.0408339+05:45</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.gagan.indoriya</bundleId>
+    <path>Assets/Plugins/Android\support-v4-24.0.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
